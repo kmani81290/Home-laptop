@@ -1,3 +1,7 @@
-open powershell in run cmd
+
+=> OPEN MOZILLA FROM CMD PROMPT
+go to cmd promt
 cpy C:\Program Files\Mozilla Firefox
 type firefox press enter
+
+
